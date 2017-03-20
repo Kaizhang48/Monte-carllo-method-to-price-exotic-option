@@ -5,6 +5,7 @@ covariances are given by
 ρ[ij] =1 if i = j
 ρ[ij] =ρ otherwise.
 The annual risk-free rate of return is 3% compounded continuously.
+
 (a) A European option expires in 3 months. At that time its payoff is max(W − 110, 0)
 where W is the maximum price of any of the three stocks observed between now and
 expiration. Value this option for 0 ≤ ρ ≤ 1 in steps of 0.1.
