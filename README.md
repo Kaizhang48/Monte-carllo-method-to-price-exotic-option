@@ -13,3 +13,7 @@ expiration. Value this option for 0 ≤ ρ ≤ 1 in steps of 0.1.
 (b) A different European option expiring in 3 months has payout max(A − 110, 0) where
 A is the average value of the three stocks at expiration. Value this option for 0 ≤ ρ ≤ 1 in
 steps of 0.1.
+
+RESULT:
+
+![image](https://github.com/Kaizhang48/Monte-carllo-method-to-price-exotic-option/raw/master/1.png?raw=true)
